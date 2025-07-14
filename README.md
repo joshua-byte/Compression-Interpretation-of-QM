@@ -1,0 +1,1 @@
+The Python simulation code and associated data supporting the findings of this study are openly available in the following GitHub repository: https://github.com/yourusername/compression-qm-simulations. All data used to generate the figures and compression metrics are available within the repository.
